@@ -1,0 +1,26 @@
+{
+  "name": "interval-polynomial",
+  "version": "0.0.0",
+  "description": "Like `setInterval`, but instead of a constant interval duration, a polynomical one instead, specified using coefficients.",
+  "main": "interval-polynomial.js",
+  "scripts": {
+    "test": "jest --config=\".jestconfig-unit.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autopilothq/interval-polynomial.git"
+  },
+  "keywords": [
+    "interval",
+    "time"
+  ],
+  "author": "bguiz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/autopilothq/interval-polynomial/issues"
+  },
+  "homepage": "https://github.com/autopilothq/interval-polynomial#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
